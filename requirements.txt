@@ -3,4 +3,5 @@ pandas
 os-sys
 Pillow
 matplotlib
-mlxtend
+mlxtend.frequent_patterns
+mlxtend.preprocessing
